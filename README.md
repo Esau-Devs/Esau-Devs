@@ -5,6 +5,18 @@
         <h3 align="center">A passionate frontend developer from El Salvador</h3>
     </div>
     <div align="right">
+        <p>🎓   I am currently pursuing a pre-specialty in artificial intelligence engineering and have experience as a software engineer.
+🤔   I explore new technologies and developing software apps based in this.
+🍀   Enthusiast in aplicated physics on development world.
+✍🏻   Watching anime and trying out latest design trends as hobbies/side hustles.
+☕   I believe a cup of coffee can be the perfect solution to stress.
+⚙️ Tech skills
+🖥️   Java
+💻   HTML | CSS | JS | PHP | Bootstrap | jQuery | React.js
+🌐  Express.js | Laravel
+🛢   MySQL | SQL Server | PostgreSQL
+🔧   Xampp | Laragon | VS Code | Git | Swagger
+🎨   Figma</p>
         <img src='https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif'>
     </div>
 </div>

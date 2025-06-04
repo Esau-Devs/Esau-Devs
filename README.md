@@ -4,7 +4,7 @@
         <h1 align="center">Hi 👋, I'm Software developer</h1>
         <h3 align="center">A passionate frontend developer from El Salvador</h3>
     </div>
-    <div align="right">
+    <div  style="display: flex;">
         <p>🎓   I am currently pursuing a pre-specialty in artificial intelligence engineering and have experience as a software engineer.
 🤔   I explore new technologies and developing software apps based in this.
 🍀   Enthusiast in aplicated physics on development world.
@@ -17,7 +17,7 @@
 🛢   MySQL | SQL Server | PostgreSQL
 🔧   Xampp | Laragon | VS Code | Git | Swagger
 🎨   Figma</p>
-        <img src='https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif'>
+        <img   src='https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif'>
     </div>
 </div>
 

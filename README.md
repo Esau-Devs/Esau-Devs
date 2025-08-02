@@ -37,6 +37,6 @@
   <i><b>Profile Visitor Count...</b></i><br>
     <br>
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
-  <img src="https://profile-counter.glitch.me/Esau-Dev/count.svg" />
+  <img src="https://widgetbite.com/stats/Esau-Devs" />
 </p>
 
